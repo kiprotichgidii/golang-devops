@@ -7,7 +7,7 @@ This roadmap is designed to help DevOps engineers learn Golang while building pr
 
 ## **Week 1: Golang Basics**
 ### **Goal:** Get comfortable with Go syntax and key features.
-✅ Install Go and set up your environment
+- ✅ Install Go and set up your environment
 - [ ] Learn Go's basic syntax: variables, loops, conditionals
 - [ ] Understand functions, methods, and structs
 - [ ] Learn error handling in Go
