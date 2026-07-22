@@ -17,3 +17,8 @@ func (r Rectangle) Area() float64 {
 	area := r.Width * r.Height
 	return area
 }
+
+func (t Triangle) Area() float64 {
+	area := (t.Base * t.Height) / 2
+	return area
+}
