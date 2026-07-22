@@ -17,3 +17,7 @@ type Triangle struct {
 type Shape interface {
 	Area() float64
 }
+
+type Perimeter interface {
+	Perimeter() float64
+}
